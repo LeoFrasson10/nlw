@@ -13,7 +13,7 @@
   "homepage": "https://github.com/LeoFrasson10/nlw#readme",
   "dependencies": {
     "bower": "^1.8.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-pre-gyp": "^0.15.0",
     "nunjucks": "^3.2.2",
     "sqlite-async": "^1.1.0",
